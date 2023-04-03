@@ -1,24 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/Atom-Sweep-fabric-1.19.2-0.1.2.jaroff"
-hash = "a802bd73c77980e1eed823143c51fbb067fd4b628cf8f08ea11bfa6e0603f1de"
-
-[[files]]
-file = "mods/Continents_1.19.3_v1.1.2.jar"
-hash = "601b985fd0d76991bb14dad2bf4891fd265366469a11c364243d768a14e2c7e8"
-
-[[files]]
-file = "mods/FabricProxy-Lite-2.3.0.jar"
-hash = "d1b8026b8b9da6e70ef15f2e6e409e0d0b1ced6a78af4a77523cabfb56663341"
-
-[[files]]
-file = "mods/InvMove-1.19-0.8.3-Fabric.jar"
-hash = "127b48e674fd7dd63c5cdd48522e6f009a849901b8d64a9fffd8c7ce75d6ab5b"
-
-[[files]]
-file = "mods/Slideshow-fabric-1.19.2-1.0.2-hotfix-1.jar"
-hash = "0e780e8ccc9e211ac5242475fb8bfa1ff12b9368ad1e1e9cefb7bdf6744153fa"
+file = "README.md"
+hash = "2873bbe9f0c6e292078efde2402645a25ee8e05779e1cec4ac95ca994147bfb0"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -29,10 +13,6 @@ metafile = true
 file = "mods/ambient-environment.pw.toml"
 hash = "f33c00984ea57c2d7802b72485683b21fff3bc70653ea29771bb7aef9b852051"
 metafile = true
-
-[[files]]
-file = "mods/antishulkerdupe-1.0.0.jar"
-hash = "e5d6ce66ba3594e8e625730e0e920e24666d7882a0ecd79f95ceed359a69c683"
 
 [[files]]
 file = "mods/antixray.pw.toml"
@@ -73,10 +53,6 @@ metafile = true
 file = "mods/blahaj-fabric.pw.toml"
 hash = "4e4fe15c401f179c42a65624bcb8cd5f42973f541312b93bdfd73f3dc95348cd"
 metafile = true
-
-[[files]]
-file = "mods/blahaj_1.19-0.2.0.jar"
-hash = "a548ee18572016f531e289627c0c43f379136586a3fff99b63d888aa8a656493"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
@@ -147,10 +123,6 @@ metafile = true
 file = "mods/create-fabric.pw.toml"
 hash = "1e80eff1198aef1a2d09defca78a2e8af8821fe2f2625eb692fc55f2b89816b5"
 metafile = true
-
-[[files]]
-file = "mods/create-track-map-1.0+mc1.19.2.jar"
-hash = "4f9bcb0245ef8a8e361747c1fe3717e8c25ced941ffe6458e55ce2a5feb94314"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -278,14 +250,6 @@ hash = "9a2f80adb3ee17c60a6ec5e0bb8800aa37345655fcba54cfd2f9da5e768b9887"
 metafile = true
 
 [[files]]
-file = "mods/immersivesnow-1.19.2-1.2.0.jaroff"
-hash = "545ccfb6f3c4bdc0ce2ac3f6ac40b52dc9e27f3dcfddba13ffc25000ee5ce4cc"
-
-[[files]]
-file = "mods/incantationem-1.1.6+1.19.jar"
-hash = "c05e195ba3a79801b088d7d029d13774b511f5c208ae9d2d01d117bf95fda37b"
-
-[[files]]
 file = "mods/incantationem.pw.toml"
 hash = "95ae194edb19e4e7aa37c18c5309e72c479d39313d1c335452c74d2785020e6a"
 metafile = true
@@ -366,10 +330,6 @@ hash = "de55e473653cdd5046f3f79220f6aa9d1cf0eccfe97e8902c72935d0bbb0272e"
 metafile = true
 
 [[files]]
-file = "mods/merequester-1.19.2-1.0.3.jaroff"
-hash = "8a3dae9abcc8f443d529b5ad1826591e22b35ed646280375e3cdaccef77d3c07"
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a73a952e139f4f845dad83f2e206830ba5533cad7ab857e9843a038940d8b33"
 metafile = true
@@ -408,10 +368,6 @@ metafile = true
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "f4cf6e3fbdba55f002b5812b8e1df45c2178d0a1db0e6454c6921aa1cfda04ea"
 metafile = true
-
-[[files]]
-file = "mods/paradise-lost-2.1.0-beta+1.19.2.jar"
-hash = "34503b32c9228f22496120951bb388b51023335f6b08ac891a92aba007f1a6f3"
 
 [[files]]
 file = "mods/paradise-lost.pw.toml"
@@ -544,10 +500,6 @@ hash = "9d04d7c707d6908acf054ae75de4aa8d64cdf045290ad183d91ee6f2ea99ca3e"
 metafile = true
 
 [[files]]
-file = "mods/soulfired-1.19.2-3.1.0.0-final-fabric.jar"
-hash = "c3ac6635f0b00956de3e8d801814e489fdf37b46ec2281cb1599f71abf956d43"
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "ed630161a04121bc00562c9a9ceab91d8c1d0bda43ab83d2a1256609f3db1701"
 metafile = true
@@ -556,10 +508,6 @@ metafile = true
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
-
-[[files]]
-file = "mods/tabtps-fabric-mc1.19.2-1.3.15.jar"
-hash = "53f731ed2f6d860aaaf22173379c530012ff0c56d1f53ec215f7cd2a8bc8d1ba"
 
 [[files]]
 file = "mods/tech-reborn-patchouli.pw.toml"
@@ -615,10 +563,6 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
-
-[[files]]
-file = "mods/xercapaint-fabric-1.19.2-1.0.1.jaroff"
-hash = "183fa24c17e8b7b1b8737c9697aff7e9cf202ef51eb0f12b4f6f1cc9ce659b9f"
 
 [[files]]
 file = "mods/xl-packets-fabric.pw.toml"
