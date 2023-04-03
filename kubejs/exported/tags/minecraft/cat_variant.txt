@@ -1,0 +1,20 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 1, 2023, 12:06:22 AM
+
+#minecraft:default_spawns
+- minecraft:tabby (from Default)
+- minecraft:black (from Default)
+- minecraft:red (from Default)
+- minecraft:siamese (from Default)
+- minecraft:british_shorthair (from Default)
+- minecraft:calico (from Default)
+- minecraft:persian (from Default)
+- minecraft:ragdoll (from Default)
+- minecraft:white (from Default)
+- minecraft:jellie (from Default)
+- moremobvariants:gray_tabby (from More Mob Variants)
+- moremobvariants:doug (from More Mob Variants)
+- moremobvariants:handsome (from More Mob Variants)
+
+#minecraft:full_moon_spawns
+- #minecraft:default_spawns (from Default)
+- minecraft:all_black (from Default)

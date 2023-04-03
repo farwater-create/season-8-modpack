@@ -1,0 +1,74 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 1, 2023, 12:06:21 AM
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- create:flowing_honey (from Create)
+- create:honey (from Create)
+- create:flowing_chocolate (from Create)
+- create:chocolate (from Create)
+- createaddition:flowing_seed_oil (from Create Crafts & Additions)
+- createaddition:seed_oil (from Create Crafts & Additions)
+- milk:flowing_milk? (from Milk Lib)
+- milk:still_milk? (from Milk Lib)
+- paradise_lost:dense_cloud (from Paradise Lost)
+- paradise_lost:spring_water (from Paradise Lost)
+- paradise_lost:flowing_spring_water (from Paradise Lost)
+- minecraft:water (from Paradise Lost)
+- minecraft:flowing_water (from Paradise Lost)
+
+#createaddition:burnable_fuel_20000
+- minecraft:lava (from Create Crafts & Additions)
+- minecraft:flowing_lava (from Create Crafts & Additions)
+
+#ae2:blacklisted/annihilation_plane
+
+#c:plantoil
+- createaddition:seed_oil (from Create Crafts & Additions)
+
+#c:milk
+- milk:flowing_milk? (from Milk Lib)
+- milk:still_milk? (from Milk Lib)
+
+#c:tea
+- create:flowing_tea (from Create)
+- create:tea (from Create)
+
+#c:water
+- #minecraft:water? (from Fabric Convention Tags)
+
+#c:lava
+- #minecraft:lava? (from Fabric Convention Tags)
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#create:diving_fluids
+- #minecraft:water (from Create)
+
+#create:bottomless/deny
+
+#paradise_lost:spring_water
+- paradise_lost:spring_water (from Paradise Lost)
+- paradise_lost:flowing_spring_water (from Paradise Lost)
+
+#c:honey
+- create:flowing_honey (from Create)
+- create:honey (from Create)
+
+#create:bottomless/allow
+- minecraft:water (from Create)
+- minecraft:lava (from Create)
+
+#c:chocolate
+- create:flowing_chocolate (from Create)
+- create:chocolate (from Create)
+
+#createaddition:burnable_fuel_4800
+- createaddition:seed_oil (from Create Crafts & Additions)
+- createaddition:flowing_seed_oil (from Create Crafts & Additions)
+
+#createaddition:burnable_fuel_12800
+- createaddition:bioethanol (from Create Crafts & Additions)
+- createaddition:flowing_seed_oil (from Create Crafts & Additions)
