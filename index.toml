@@ -155,11 +155,6 @@ hash = "0c7788e6bca6ce9b4a4dad09d20e546f5a12108e42731eb2f9ba146643d70a4f"
 metafile = true
 
 [[files]]
-file = "mods/dashloader.pw.toml"
-hash = "fa0bfdfa7fa3ace1d30c8e0929ab1f120be5ceb0adaee37f0f2bd90bc27b7492"
-metafile = true
-
-[[files]]
 file = "mods/deepslatecutting.pw.toml"
 hash = "ba1e28a3a0c1f87a08d6fa7a617aa1026d86950bd4994a1b0a438bd253a1eae8"
 metafile = true
@@ -372,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "9050c3a7dce8cc8b637869da88d18c2ad764d7e81d592902939e0f5f844a755f"
+metafile = true
+
+[[files]]
+file = "mods/polaroid-camera.pw.toml"
+hash = "3920ec9eff643d0094534e83669854f1cdde8783af1ddfb1da21cdc5d419acf0"
 metafile = true
 
 [[files]]
