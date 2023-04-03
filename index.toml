@@ -613,3 +613,7 @@ metafile = true
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "b2b5c11320601e1bccb196404515ad8f6b35ccb6db508db785806d483b71085b"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "d4fbbf5568a593d98d0f1051cc89bba1b6d315e7ccc59b329a5c9f864af35042"
