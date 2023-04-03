@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Farwater"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "README.md"
-hash = "2873bbe9f0c6e292078efde2402645a25ee8e05779e1cec4ac95ca994147bfb0"
+hash = "d04fbbe4f0668a1f4d21f61ea1977643b438511ca61c5f1e4e5104643102833c"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"

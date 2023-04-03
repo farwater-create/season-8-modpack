@@ -1,11 +1,11 @@
-name = "S 8 Packwiz"
-version = "1.0.0"
+name = "Farwater Create"
+version = "Season 8 v1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ce0dc6487114c21e662cb73f0dd5be799e83c429072448a793d5500590aa8a63"
+hash = "723f71abcf55da6764ca8b99511861fb132a4490dce05166b3229fc1fed3eca0"
 
 [versions]
 fabric = "0.14.19"
