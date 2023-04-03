@@ -1,0 +1,12 @@
+name = "S 8 Packwiz"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8bcb3d70e62f8c6018d49a5150f9f2b8974940ab13080e4b7d3aab5cbdae8f68"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.2"

@@ -1,0 +1,13 @@
+name = "No Resource Pack Warnings"
+filename = "no-resource-pack-warnings-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f74194839e12cba5b30637255b6e5dd3409e3052"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4452219
+project-id = 627242

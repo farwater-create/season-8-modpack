@@ -1,0 +1,13 @@
+name = "Consistency+"
+filename = "consistency_plus-fabric-0.5.1+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7f167adbc048f29a67622b85fe7c76ede9482d00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3971956
+project-id = 430445

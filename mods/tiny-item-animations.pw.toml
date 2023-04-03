@@ -1,0 +1,13 @@
+name = "Tiny Item Animations"
+filename = "tia-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5afea39219f2d5ea243d0cd5e28c211c768de01b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4333648
+project-id = 808006

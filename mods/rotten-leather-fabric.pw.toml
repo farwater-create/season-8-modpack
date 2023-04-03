@@ -1,0 +1,13 @@
+name = "Rotten Leather(Fabric)"
+filename = "RottenLeather-1.19.2-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "34389fec40b009298df2d0d0b3d9df805c916270"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4111866
+project-id = 711681

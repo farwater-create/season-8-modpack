@@ -1,0 +1,13 @@
+name = "Mouse Wheelie (Fabric)"
+filename = "mousewheelie-1.10.7+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6487a2a14c6d049397555906b4977bef13ed524"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4318086
+project-id = 317514

@@ -1,0 +1,13 @@
+name = "SnowyLeavesPlus"
+filename = "snowyleavesplus-mc1.19.3-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d7875dc70c257b870e10a31129f69d3fd2483f53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4439065
+project-id = 611998

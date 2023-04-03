@@ -1,0 +1,13 @@
+name = "AntiXray (Fabric)"
+filename = "anti-xray-1.3.0-Fabric-1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "011a139d1179ff311222220ba70f4e6a7ffc47fa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4331673
+project-id = 511697

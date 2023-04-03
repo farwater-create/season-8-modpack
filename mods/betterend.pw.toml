@@ -1,0 +1,13 @@
+name = "BetterEnd"
+filename = "better-end-2.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "563c36d6b3037b0ca86015052d0c359977ea736c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4393109
+project-id = 413596

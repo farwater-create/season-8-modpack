@@ -1,0 +1,13 @@
+name = "Universal Shops"
+filename = "universal_shops-1.0.1+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "861bd9a3f3f0faf10846c78ddb442fab8b9e29a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4112528
+project-id = 705362

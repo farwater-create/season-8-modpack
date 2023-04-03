@@ -1,0 +1,13 @@
+name = "Soul fire'd"
+filename = "soulfired-1.19.2-3.1.0.0-final-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83b6ed29f594d4a86762299414a133c1f59218a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4444269
+project-id = 662413

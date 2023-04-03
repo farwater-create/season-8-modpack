@@ -1,0 +1,13 @@
+name = "Logic Gates (Fabric)"
+filename = "logicgates-1.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "97a934b96ae0fc4c41a79a5b2b92e83b115b1494"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3942504
+project-id = 596687

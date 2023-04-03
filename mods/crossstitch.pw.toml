@@ -1,0 +1,13 @@
+name = "CrossStitch"
+filename = "crossstitch-0.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2950fb0ff67e50b8f3ff5ddb5dc1352304072db6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3856723
+project-id = 420359
