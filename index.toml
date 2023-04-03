@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Farwater"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "README.md"
 hash = "d04fbbe4f0668a1f4d21f61ea1977643b438511ca61c5f1e4e5104643102833c"
 
