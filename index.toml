@@ -922,7 +922,7 @@ hash = "9af6ae84f286c7359e42da5f9b7c36e4224f962cf20cc16cfc01b8373a5a3d71"
 
 [[files]]
 file = "kubejs/startup_scripts/blazing-blood.js"
-hash = "105b44e868fd338e979054bc46d951f1052ed1ea8d41d83810825392948590c5"
+hash = "65fbd36b40de73e666748ecaacddc86daf7786c0b6a9f38fa5f0f33a5a0a6eda"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -1456,6 +1456,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "ff80faf2979049f984eeafc518dccbc670933406016915d41c0d08967e23e191"
 metafile = true
 
 [[files]]
