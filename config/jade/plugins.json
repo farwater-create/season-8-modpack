@@ -19,7 +19,7 @@
     "player_head": true,
     "block_states": false,
     "lectern": true,
-    "entity_armor": true,
+    "entity_armor": false,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid": true,
@@ -52,7 +52,7 @@
     "distance": false,
     "block_face": false,
     "coordinates": false,
-    "registry_name": "ADVANCED_TOOLTIPS",
+    "registry_name": "ON",
     "mod_name": true
   },
   "create": {

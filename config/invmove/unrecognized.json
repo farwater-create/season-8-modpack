@@ -16,7 +16,8 @@
     "snownee.jade.gui.WailaConfigScreen": true,
     "snownee.jade.gui.PluginsConfigScreen": true,
     "snownee.jade.gui.PluginsConfigScreen$1": true,
-    "draylar.inmis.ui.BackpackHandledScreen": true
+    "draylar.inmis.ui.BackpackHandledScreen": true,
+    "net.minecraft.class_410": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,

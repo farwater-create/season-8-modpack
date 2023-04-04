@@ -25,10 +25,10 @@
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
 		"cheating": false,
-		"favoritesEnabled": true,
+		"favoritesEnabled": false,
 		"keyBindings": {
 			"recipeKeybind": {
-				"keyCode": "key.keyboard.r",
+				"keyCode": "key.keyboard.unknown",
 				"modifier": 0
 			},
 			"usageKeybind": {
@@ -153,7 +153,7 @@
 	"appearance": {
 		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
-		"theme": "LIGHT",
+		"theme": "DARK",
 		"layout": {
 			// Declares the position of the search field.
 			"searchFieldLocation": "CENTER",
@@ -166,11 +166,11 @@
 		"recipeBorder": "DEFAULT",
 		// Declares whether entry panel is scrolled.
 		"scrollingEntryListWidget": false,
-		"horizontalEntriesBoundaries": 1.0,
+		"horizontalEntriesBoundaries": 0.7,
 		"verticalEntriesBoundaries": 1.0,
 		"horizontalEntriesBoundariesColumns": 50,
 		"verticalEntriesBoundariesRows": 1000,
-		"favoritesHorizontalEntriesBoundaries": 1.0,
+		"favoritesHorizontalEntriesBoundaries": 0.7,
 		"favoritesHorizontalEntriesBoundariesColumns": 50,
 		"syntaxHighlightingMode": "COLORFUL",
 		"isFocusModeZoomed": false
