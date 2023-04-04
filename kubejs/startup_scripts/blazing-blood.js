@@ -6,7 +6,6 @@ StartupEvents.registry('fluid', e => {
     .flowingTexture('kubejs:block/blazing_blood_flowing')
     .bucketColor(0xFF781F)
     .displayName('Blazing Blood')
-    .density(3000) // same as lava
     .viscosity(6000) // same as lava
     .temperature(1300) // same as lava
 })

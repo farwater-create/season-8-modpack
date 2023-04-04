@@ -10,7 +10,7 @@ ServerEvents.recipes(e => {
     
     e.recipes.create.filling({
         ingredients: [
-            Fluid.of("kubejs:blazing_blood", 32400).toJson(),
+            Fluid.of("kubejs:blazing_blood", 48600).toJson(),
             Item.of("minecraft:stick").toJson()],
         results: [Item.of("minecraft:blaze_rod", 1).toJson()],
     });

@@ -41,7 +41,7 @@ ServerEvents.recipes(e => {
     
     addMixingRecipe(e,
 		[Item.of("minecraft:blaze_powder", 1)],
-        [Fluid.of("kubejs:blazing_blood")],
+        [Fluid.of("kubejs:blazing_blood", 16200)],
 		"heated",
         500
 	);
