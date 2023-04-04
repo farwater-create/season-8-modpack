@@ -903,6 +903,11 @@ hash = "d8b366e849bb1eb654beb97e03bf12a8d52a165bf2a1f745d1c326985a773b9a"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "80575a5f4bfcb012bcd1e2472d715fe497922674be91fdb8308f6ef8f9392bfa"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "198f9be042f4ce9c2fd2a71dd42577db126d01938b3cf5fd1a30939e8f07959c"
 metafile = true
