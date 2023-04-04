@@ -1,0 +1,26 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "net.minecraft.class_433": true,
+    "net.hyper_pigeon.polaroidcamera.client.render.CameraScreen": true,
+    "me.shedaniel.rei.impl.client.gui.error.ErrorsScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "de.maxhenkel.voicechat.gui.group.JoinGroupScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen": true,
+    "com.simibubi.create.foundation.ponder.ui.PonderUI": true,
+    "com.simibubi.create.content.logistics.block.display.DisplayLinkScreen": true,
+    "com.simibubi.create.foundation.ponder.ui.PonderTagScreen": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "snownee.jade.gui.HomeConfigScreen": true,
+    "snownee.jade.gui.WailaConfigScreen": true,
+    "snownee.jade.gui.PluginsConfigScreen": true,
+    "snownee.jade.gui.PluginsConfigScreen$1": true,
+    "draylar.inmis.ui.BackpackHandledScreen": true
+  },
+  "hideBackground": {
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "com.simibubi.create.content.logistics.block.display.DisplayLinkScreen": true,
+    "draylar.inmis.ui.BackpackHandledScreen": true
+  }
+}

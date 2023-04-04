@@ -3,9 +3,16 @@
 ServerEvents.recipes(e => {
     e.recipes.create.filling({
         ingredients: [
-            Fluid.of("kubejs:blazing_blood", 16200).toJson(),
+            Fluid.of("kubejs:blazing_blood", 12150).toJson(),
             Item.of("create:blaze_cake_base").toJson()],
         results: [Item.of("create:blaze_cake", 1).toJson()],
+    });
+    
+    e.recipes.create.filling({
+        ingredients: [
+            Fluid.of("kubejs:blazing_blood", 32400).toJson(),
+            Item.of("minecraft:stick").toJson()],
+        results: [Item.of("minecraft:blaze_rod", 1).toJson()],
     });
 })
 

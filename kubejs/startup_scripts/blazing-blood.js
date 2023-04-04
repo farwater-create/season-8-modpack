@@ -2,12 +2,11 @@
 StartupEvents.registry('fluid', e => {
   // Basic blazing blood 
   e.create('blazing_blood')
-    .thickTexture(0xFFAC1C)
-    .bucketColor(0xFFAC1C)
+    .stillTexture('kubejs:block/blazing_blood')
+    .flowingTexture('kubejs:block/blazing_blood_flowing')
+    .bucketColor(0xFF781F)
     .displayName('Blazing Blood')
-  	.luminosity(8)
     .density(3000) // same as lava
     .viscosity(6000) // same as lava
     .temperature(1300) // same as lava
-    .flowingTexture("minecraft:lava_flow") // same as lava
 })
