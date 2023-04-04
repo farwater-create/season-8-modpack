@@ -857,6 +857,14 @@ file = "kubejs/exported/tags/minecraft/worldgen/world_preset.txt"
 hash = "ff219833f4efe87ee71ee989ca2daf83866fdfc658cec68e0ddac30f3cb39639"
 
 [[files]]
+file = "kubejs/exported/tags/moonlight/moonlight/map_markers.txt"
+hash = "674404572d5584b1ae5d31bb48b644e0f64699b1bdd2f5b1c798e945386dd66f"
+
+[[files]]
+file = "kubejs/exported/tags/moonlight/moonlight/soft_fluids.txt"
+hash = "674404572d5584b1ae5d31bb48b644e0f64699b1bdd2f5b1c798e945386dd66f"
+
+[[files]]
 file = "kubejs/exported/tags/paradise_lost/lore.txt"
 hash = "b01e377eafb4deb28110cbcbdce4451b33f428158c9627e66714e49196395435"
 
@@ -898,19 +906,27 @@ hash = "b60a6c8ac252242cfee194e65fd3e799c5ba2b0cd4d50171ec52c3604ad347f8"
 
 [[files]]
 file = "kubejs/server_scripts/blacklist.js"
-hash = "0e6e9ed7f7a495e34d67b9b99abc033bffeb00b279bf51db9d731ada53e35f32"
+hash = "3db49906f16cedbd7c0a298b4562fbea90031cc29f487342772a4610bf57bc13"
 
 [[files]]
 file = "kubejs/server_scripts/blazing-blood.js"
-hash = "4406455dcddd7a2c2bfa6f8f054f88b8c90873db7e35d27d2b0463b2aa136733"
+hash = "c9680558a2fcdaa9af7a77895315fa683336bfd3e5c584d8e1901004d31dea30"
 
 [[files]]
 file = "kubejs/server_scripts/compacting.js"
 hash = "97cc48873ec8664241ea83ddb9c0a72513379f280089680e8a884047f583d8cc"
 
 [[files]]
+file = "kubejs/server_scripts/creeper-overhaul-drops.js"
+hash = "2d728a8a2c36b98e6decffa073666ad1eb3e3ac14793cc19653878e81ce7490f"
+
+[[files]]
+file = "kubejs/server_scripts/disable-mobs.js"
+hash = "215a4a735ec333e7b43c137452e675dde9c9b39d0e6750fc475147cdc1f49ab5"
+
+[[files]]
 file = "kubejs/server_scripts/mixing.js"
-hash = "aab16460e4e1e7a2379ebe6c3d8e09d7dd2ac5f2ac0f9929fc6b8edf45eed368"
+hash = "95227895742f662bf32ba9cabe039fd90e63527f827c04371487013184b2ce5d"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
@@ -922,7 +938,7 @@ hash = "9af6ae84f286c7359e42da5f9b7c36e4224f962cf20cc16cfc01b8373a5a3d71"
 
 [[files]]
 file = "kubejs/startup_scripts/blazing-blood.js"
-hash = "65fbd36b40de73e666748ecaacddc86daf7786c0b6a9f38fa5f0f33a5a0a6eda"
+hash = "252ff1b831f13d66ccaf4cf6c00919426c1a68623cc87b4f5c27b94347604ad6"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -1460,7 +1476,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ff80faf2979049f984eeafc518dccbc670933406016915d41c0d08967e23e191"
+hash = "95ae046f35ec27df513544e45a0c0b93bfd538e549b3015825fa78371871de06"
 metafile = true
 
 [[files]]
