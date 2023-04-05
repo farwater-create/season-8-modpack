@@ -945,6 +945,11 @@ file = "kubejs/startup_scripts/script.js"
 hash = "69a0c97276f7c50dab7e9f6e701f565425eb7f32319eb5e9a639fefb30a4254d"
 
 [[files]]
+file = "mods/ae-additions-extra-cells-2-fork.pw.toml"
+hash = "95da89ed9665ed09de16b487e51edfe7ffdc5e1b8c362f2eb4ff80bd17560a4c"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "5fc59d87934881adda8a97493f9eb7e778d05728eeadf0da3d82d7104b1b912a"
 metafile = true
@@ -1086,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctm-refabricated.pw.toml"
-hash = "ff58961ce9225bfb216f36f59faca261e478c56fd10de4033cea8e8a2750330a"
+hash = "a92bf97d548b17c87aa28768d02e65d5b22677ce3432c3ea930753b658898709"
 metafile = true
 
 [[files]]
@@ -1227,6 +1232,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "07440b33c32e9b1c3b84ee11ed64ffac2d321ff15cb58a869195995316974677"
+metafile = true
+
+[[files]]
+file = "mods/kibe.pw.toml"
+hash = "0eeb385119b33f98c17e7eb8c1b87e845c6c23e00e51af65deb2d3971a7c2d82"
 metafile = true
 
 [[files]]
