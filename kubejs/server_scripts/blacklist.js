@@ -15,12 +15,12 @@ const recipeBlackList = [
   "ae2:network/parts/annihilation_plane_alt2",
   "ae2:network/parts/annihilation_plane_alt",
   "ae2:network/parts/annihilation_plane_alt",
-]
+];
 
 const modBlackList = [];
 
-ServerEvents.recipes(e => {
-  console.log("loading blacklist..")
+ServerEvents.recipes((e) => {
+  console.log("loading blacklist..");
   outputBlacklist.forEach((item) => e.remove({ output: item }));
   recipeBlackList.forEach((recipe) => e.remove({ id: recipe }));
   modBlackList.forEach((mod) => e.remove({ mod: mod }));
