@@ -6,6 +6,7 @@ Always make sure to run `packwiz refresh` when making changes. This updates the 
 
 ## Requirements
 
+- [Node] (https://nodejs.org/en)
 - [Packwiz](https://packwiz.infra.link/tutorials/creating/getting-started/)
 
 ## Getting started
