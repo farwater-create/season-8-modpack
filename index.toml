@@ -1340,6 +1340,11 @@ hash = "9050c3a7dce8cc8b637869da88d18c2ad764d7e81d592902939e0f5f844a755f"
 metafile = true
 
 [[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
+metafile = true
+
+[[files]]
 file = "mods/polaroid-camera.pw.toml"
 hash = "3920ec9eff643d0094534e83669854f1cdde8783af1ddfb1da21cdc5d419acf0"
 metafile = true
