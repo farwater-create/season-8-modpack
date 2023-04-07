@@ -1120,6 +1120,11 @@ hash = "c042b77aa81c09c8071bf3ea0a0a3dc40a355e519a5775f9cc086afbe9bc60f4"
 metafile = true
 
 [[files]]
+file = "mods/entity-collision-fps-fix-fabric.pw.toml"
+hash = "8eed81956f974a8d853cd01ab549a36e05d6759e10fdb7b71e07f6a77f44d1b6"
+metafile = true
+
+[[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "903cc1fc7354d3c52be8f2b7899721aa53beef8e2fb5457a58f16a9c62d06a45"
 metafile = true
@@ -1152,6 +1157,11 @@ metafile = true
 [[files]]
 file = "mods/fast-furnace-for-fabric.pw.toml"
 hash = "76ae7b18d65669df2facfd2790e7136f53b35d8b121a7be8ff0f66f774ac4b16"
+metafile = true
+
+[[files]]
+file = "mods/fastanim.pw.toml"
+hash = "121d9c5add0d43d9c6be250287e62cbfc9a383ced6439d4e918bddd440721798"
 metafile = true
 
 [[files]]
