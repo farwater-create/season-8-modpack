@@ -340,10 +340,7 @@
     },
     "RecyclerBlacklist": {
       "comment": "Recycler blacklist",
-      "value": [
-        "techreborn:scrap_box",
-        "techreborn:scrap"
-      ]
+      "value": ["techreborn:scrap_box", "techreborn:scrap"]
     },
     "RecyclerMaxEnergy": {
       "comment": "Recycler Max Energy",

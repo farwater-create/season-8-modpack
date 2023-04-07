@@ -18,12 +18,7 @@
     },
     "QuarryExtenderWorkRadius": {
       "comment": "Quarry Extender Work Radius, added radius to SqrWorkRadius for each level, in blocks",
-      "value": [
-        7.0,
-        12.0,
-        18.0,
-        24.0
-      ]
+      "value": [7.0, 12.0, 18.0, 24.0]
     },
     "QuarryEnergyPerExcavation": {
       "comment": "Quarry Energy Per Excavation (Value in EU)",
@@ -31,9 +26,7 @@
     },
     "QuarryAdditioanlBlocksToMine": {
       "comment": "Additioanl Blocks to Mine list",
-      "value": [
-        "minecraft:ancient_debris"
-      ]
+      "value": ["minecraft:ancient_debris"]
     },
     "QuarryMinTiksPerExcavation": {
       "comment": "Quarry Min Tiks Per Excavation (with all 4 upgrdes), 20 ticks - 1 second",
