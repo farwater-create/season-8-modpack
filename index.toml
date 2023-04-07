@@ -1357,6 +1357,16 @@ hash = "c40778f0fc26e7968a4c6987f08bf5edb2ffe47539e152708d090b52ba3b673f"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "8a0c36740bb23fa90e22fb69a5d36a76dfdd1cac6a28bb7207b3675fcf88781a"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "f67cad6aef7790fa09467855108a7d1feaafc37ce1de0aaff9e32cd6ee1ef537"
+metafile = true
+
+[[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "1059d2133e86ef4acec09343e841c3b04bf95bd39f356b3db4e53942a9437295"
 metafile = true
@@ -1569,6 +1579,16 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "b5692ddeed084a674b8abf047c7cb32ab45f0b3aa3fb038b368a14a4b75f461d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a3375fd142e06deedd28c50d9dfc5ba8294121eac84b9c98d5a12a2475649aea"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "c071fa54273dc9f6358fb0b740e4893e617ffbe779c14909c27ad928bd246411"
 metafile = true
 
 [[files]]

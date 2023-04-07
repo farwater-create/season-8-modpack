@@ -1,0 +1,13 @@
+name = "Open Parties and Claims"
+filename = "open-parties-and-claims-fabric-1.19.2-0.17.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "87b70f91571a982ec800375588134f8292ba0708"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4462905
+project-id = 636608
