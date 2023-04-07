@@ -1,0 +1,27 @@
+on:
+  push:
+    branches:
+      - main
+      - steamdeck
+      - ci
+jobs:
+  package:
+    name: setup go
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-go@v4
+      - name: install packwiz
+        run: |
+          go install github.com/packwiz/packwiz@latest
+      - name: export curseforge pack
+        run: |
+          packwiz curseforge export --output modpack.zip
+      - name: upload zip
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: mod.zip
+          tag: ${{ github.ref }}
+          overwrite: true
+          body: ${{ github.ref }}
