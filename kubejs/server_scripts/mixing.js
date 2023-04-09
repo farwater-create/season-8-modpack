@@ -51,8 +51,37 @@ ServerEvents.recipes((e) => {
   addMixingRecipe(
     e,
     [Item.of("minecraft:blaze_powder", 1)],
-    [Fluid.of("kubejs:blazing_blood", 16200)],
+    [Fluid.of("farwater:blazing_blood", 16200)],
     "heated",
     500
+  );
+
+  addMixingRecipe(
+    e,
+    [Item.of("techreborn:rubber", 1),Fluid.of("createaddition:seed_oil", 200*81)],
+    [Fluid.of("farwater:rubber", 800*81)],
+    "heated",
+    200
+  );
+  addMixingRecipe(
+    e,
+    [Item.of("minecraft:slime_ball", 1),Fluid.of("createaddition:seed_oil", 200*81)],
+    [Fluid.of("farwater:rubber", 400*81)],
+    "heated",
+    500
+  );
+  addMixingRecipe(
+    e,
+    [Item.of("minecraft:slime_ball", 1),Fluid.of("minecraft:water", 200*81)],
+    [Fluid.of("farwater:rubber", 200*81)],
+    "heated",
+    500
+  );
+  addMixingRecipe(
+    e,
+    [Item.of("techreborn:rubber", 1),Fluid.of("minecraft:water", 200*81)],
+    [Fluid.of("farwater:rubber", 400*81)],
+    "heated",
+    200
   );
 });
