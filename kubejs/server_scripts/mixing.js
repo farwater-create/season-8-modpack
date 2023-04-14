@@ -56,13 +56,13 @@ ServerEvents.recipes((e) => {
     500
   );
 
-  addMixingRecipe(
-    e,
-    [Item.of("techreborn:rubber", 1),Fluid.of("createaddition:seed_oil", 200*81)],
-    [Fluid.of("farwater:rubber", 800*81)],
-    "heated",
-    200
-  );
+  // addMixingRecipe(
+  //   e,
+  //   [Item.of("techreborn:rubber", 1),Fluid.of("createaddition:seed_oil", 200*81)],
+  //   [Fluid.of("farwater:rubber", 800*81)],
+  //   "heated",
+  //   200
+  // );
   addMixingRecipe(
     e,
     [Item.of("minecraft:slime_ball", 1),Fluid.of("createaddition:seed_oil", 200*81)],
@@ -77,11 +77,11 @@ ServerEvents.recipes((e) => {
     "heated",
     500
   );
-  addMixingRecipe(
-    e,
-    [Item.of("techreborn:rubber", 1),Fluid.of("minecraft:water", 200*81)],
-    [Fluid.of("farwater:rubber", 400*81)],
-    "heated",
-    200
-  );
+  // addMixingRecipe(
+  //   e,
+  //   [Item.of("techreborn:rubber", 1),Fluid.of("minecraft:water", 200*81)],
+  //   [Fluid.of("farwater:rubber", 400*81)],
+  //   "heated",
+  //   200
+  // );
 });

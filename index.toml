@@ -930,7 +930,7 @@ hash = "d928cde006e168861f3c2f27e70ca476e0b3f73cdfa1095d48cd8582f19f2a36"
 
 [[files]]
 file = "kubejs/server_scripts/mixing.js"
-hash = "0ddacc6378c0fd16a059072faa467b218118540190630c816929a9b8f98f0cdc"
+hash = "3aa66bf70855401fa386fa575728164a01e09a813dad45996e69fc3da7e82e7e"
 
 [[files]]
 file = "kubejs/server_scripts/pressing.js"
@@ -1404,11 +1404,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "108002813c66ac24c7110257ffc2fa213bd617aec259420e8d96d5f7e33bcac7"
-metafile = true
-
-[[files]]
-file = "mods/quarry-reborn.pw.toml"
-hash = "8ffa006e259576d8ec3de5fa13d31b42bd1d381081253ede574195c245acdda0"
 metafile = true
 
 [[files]]
