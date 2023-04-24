@@ -61,7 +61,7 @@ const woodTypes = [
   "warped",
 ];
 
-ServerEvents.recipes((e) => {
+ServerEvents.recipes(e => {    
   console.info("loading woodcutting recipes");
   woodTypes.forEach((woodType) => addWoodCuttingRecipe(e, woodType));
 });
