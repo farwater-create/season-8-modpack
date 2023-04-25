@@ -508,7 +508,8 @@
     "dragon_bone_slab [default: true]": true,
     "dragon_bone_stairs [default: true]": true,
     "smaragdant_crystal [default: true]": true,
-    "tined_glass_from_smaragdant [default: true]": true
+    "tined_glass_from_smaragdant [default: true]": true,
+    "guide_book [default: true]": true
   },
   "furnace": {
     "thallasium_ingot_furnace_ore [default: true]": true,

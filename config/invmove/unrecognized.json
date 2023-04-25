@@ -17,7 +17,11 @@
     "snownee.jade.gui.PluginsConfigScreen": true,
     "snownee.jade.gui.PluginsConfigScreen$1": true,
     "draylar.inmis.ui.BackpackHandledScreen": true,
-    "net.minecraft.class_410": true
+    "net.minecraft.class_410": true,
+    "org.betterx.bclib.client.gui.screens.SyncFilesScreen": true,
+    "org.betterx.bclib.client.gui.screens.ProgressScreen": true,
+    "org.betterx.bclib.client.gui.screens.ConfirmRestartScreen": true,
+    "xaero.map.gui.GuiMap": true
   },
   "hideBackground": {
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
