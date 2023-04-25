@@ -1,5 +1,5 @@
 name = "Create: Farwater Expansion"
-filename = "farwater-1.0.0.jar"
+filename = "farwater-alpha-v0.1.1.jar"
 side = "both"
 
 [download]
@@ -9,5 +9,5 @@ mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4505157
+file-id = 4506400
 project-id = 852079

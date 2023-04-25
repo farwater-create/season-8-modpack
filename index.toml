@@ -1184,7 +1184,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-farwater-expansion.pw.toml"
-hash = "46eb076a6ae7a9d5b88ab0cbd2b0e7072fc44ea01edc4635e41ffca59d9020ad"
+hash = "ae27213df94b0f3353dd06c939f3308c8cdffd4dab32e7329661da7746231618"
 metafile = true
 
 [[files]]
