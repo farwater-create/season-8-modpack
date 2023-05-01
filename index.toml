@@ -1098,6 +1098,11 @@ hash = "c97eaba15d7cc478b6b554d7f40ddeec1a052b565dc9c0f9bd381685453e35d0"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "ccfa776ceb18c8682c928cc2aa3dc9aafac0d467667f09b8f2d15694f65a79ec"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "420d85c5427f2bcf8b27c08574fa373819df17ae2c8bd4ce301c1b0401badf0b"
 metafile = true
@@ -1329,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-revolution.pw.toml"
-hash = "fb7a3cd21ae04e61e5166622dbad8b0f5f85510ff7d2f09f12d5264a0539065d"
+hash = "625cdb97035ad7e20034a33ea2d685c8f8338859525bfd4620d70112ba5651a2"
 metafile = true
 
 [[files]]
@@ -1340,11 +1345,6 @@ metafile = true
 [[files]]
 file = "mods/inmisaddon.pw.toml"
 hash = "1d6cec41f0942d5d679b669e5a90b5bbebffe2984490fd5bc1eaa72acf69f532"
-metafile = true
-
-[[files]]
-file = "mods/invmove.pw.toml"
-hash = "478130caa32eb563b5e5f773f3352684358c6526d8d5f0d7e679c015dc1c30c4"
 metafile = true
 
 [[files]]
@@ -1665,6 +1665,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "9eb2b4ce70dce35393d556b1df236731704078e1802461bcdca5209ec08c420e"
+metafile = true
+
+[[files]]
+file = "mods/waystones-fabric.pw.toml"
+hash = "24aadc225136d99a3b613bdeca99f7732541d2aca9c1a7c7a1624a9a4fda1cfd"
 metafile = true
 
 [[files]]
