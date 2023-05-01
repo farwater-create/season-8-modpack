@@ -1333,11 +1333,6 @@ hash = "14d955580da572276693ea3a1c41729afbc515b52b52700864ae3888c6137905"
 metafile = true
 
 [[files]]
-file = "mods/industrial-revolution.pw.toml"
-hash = "625cdb97035ad7e20034a33ea2d685c8f8338859525bfd4620d70112ba5651a2"
-metafile = true
-
-[[files]]
 file = "mods/inmis.pw.toml"
 hash = "b0d48f1369125e1f41d52a095e5511f1302d32931ed2173d9710853e1d3c63cb"
 metafile = true
