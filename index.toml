@@ -1480,6 +1480,11 @@ hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "f30a37b89792e4b084262e4552bd9e1adab803f4363f336daf730dc623d12fe6"
+metafile = true
+
+[[files]]
 file = "mods/polaroid-camera.pw.toml"
 hash = "3920ec9eff643d0094534e83669854f1cdde8783af1ddfb1da21cdc5d419acf0"
 metafile = true
@@ -1577,11 +1582,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "80575a5f4bfcb012bcd1e2472d715fe497922674be91fdb8308f6ef8f9392bfa"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "198f9be042f4ce9c2fd2a71dd42577db126d01938b3cf5fd1a30939e8f07959c"
 metafile = true
 
 [[files]]
