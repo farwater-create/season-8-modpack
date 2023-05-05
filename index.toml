@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/main.yml"
-hash = "9479a8b9ec1d98b935994157ace090ecd0d27bdbff2a62784ad3732689fd7ba0"
-
-[[files]]
-file = ".husky/pre-commit"
-hash = "35502d27882ac84ad407c9de0e5bd6f1ca9980f2eb5f516be17cdd8c4f9e14d5"
-
-[[files]]
 file = "README.md"
 hash = "2d0f5a264f9af742ba7dec68ea53cc53ff6739e9233a484b028f2f2448adb28b"
 
@@ -1480,6 +1472,11 @@ metafile = true
 [[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "9050c3a7dce8cc8b637869da88d18c2ad764d7e81d592902939e0f5f844a755f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
 metafile = true
 
 [[files]]
