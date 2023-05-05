@@ -1178,6 +1178,11 @@ hash = "148f0a84fe58e1e52b2d0661f542fec3d139c263e54546d5770000b0e8b11eaf"
 metafile = true
 
 [[files]]
+file = "mods/create-extended-cogwheels-fabric.pw.toml"
+hash = "ba3c9ee4ce1631059cc8677b042a243c12355dce2ed7213e49dac54b8bf9bd0c"
+metafile = true
+
+[[files]]
 file = "mods/create-extended-flywheels-fabric.pw.toml"
 hash = "0087337de7a3b0e269c8c3d035543518530d4436289ff03c077ed7848a6e7eff"
 metafile = true
@@ -1400,11 +1405,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "9c98523f0b487fcb220b60b498c2e581e9826df3b514a9eff049c4820e8d9179"
-metafile = true
-
-[[files]]
-file = "mods/logic-gates-fabric.pw.toml"
-hash = "87e9fdf6c9798dcfb9ea8b094ccedcdaf70899a2120857d828c16851bc8bffec"
 metafile = true
 
 [[files]]
