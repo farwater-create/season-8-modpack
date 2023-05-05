@@ -1,12 +1,7 @@
-name = "Farwater Create"
-version = "Season 8 v1.0.0"
+name = ""
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "21437c2d59c8b0cba4b573660a37a45469bef2eaba1722e76a3fcd2bc86ff538"
-
-[versions]
-fabric = "0.14.18"
-minecraft = "1.19.2"
+hash = "6d796ed1ad3d3ea6c5c788968cc7d2ae6794d1ab9110d247d51f15a9200c232d"

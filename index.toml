@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/main.yml"
-hash = "c1ba8bedcda1c2119989407b56226ede7eeeea076b860ea3e9c40da48b8ae630"
-
-[[files]]
-file = ".husky/pre-commit"
-hash = "e58c610b13913dd8b29f5abcf07070a67a66e1d0f528a8d85355499a03dcbd9d"
-
-[[files]]
 file = "README.md"
 hash = "77c694fc24975684ae14eda2f98f3981eb8de7c3da908f8420a794cccdd542b2"
 
@@ -1368,6 +1360,11 @@ hash = "6f657fbe854bae9a4aa40a23bb90e9b626e66eecf923e2a310625f3403b42f9e"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "73d483dadb76f7342c39f91f1702a13c1cb2bf063fecda233d6ea0612156f730"
+metafile = true
+
+[[files]]
 file = "mods/kibe.pw.toml"
 hash = "9894c47468d1d25b854bccec9d5786c816ba75233b74821553b58e80a3f8b722"
 metafile = true
@@ -1413,6 +1410,11 @@ hash = "64f13c6e9f1abfd582e8b307ada7448d562db83d275ed6ecb77fd3478a5ff6b0"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "29362778f0107125c081749bb60cedf5079a05d7c981c739e51be60cc0210186"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "ab68de9fc69363f9868805f5f6e5e87eaa14d82fee56d06fecc604f5d2a19024"
 metafile = true
@@ -1443,6 +1445,11 @@ hash = "143a8455f83fa8707f5a89b0b2da6c7e71623a7d41830c2663a035e8083de556"
 metafile = true
 
 [[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "164d26a6c77676e324448e816fa3a098078eec7d2beb0aeb572960d466b22358"
+metafile = true
+
+[[files]]
 file = "mods/mystical-oak-tree.pw.toml"
 hash = "bb00ed7c6715aab8f2f72d26e69780e6104a28b56d869ecf5fc4faa4b034262d"
 metafile = true
@@ -1470,6 +1477,16 @@ metafile = true
 [[files]]
 file = "mods/paradise-lost.pw.toml"
 hash = "1059d2133e86ef4acec09343e841c3b04bf95bd39f356b3db4e53942a9437295"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "904a3f9b9783114be8db7c13b3ad8f3c4ed5d8de5c432442eb84c8734ccd63b7"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "753ea30cd566bdcdc164b0836b165cffd5cb48cf9654c87d69ce51d8a18e0dc9"
 metafile = true
 
 [[files]]
@@ -1570,11 +1587,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "d8221197633db3a436afb897d451a78e03337e81d02f0f83dcab6b60fe41f2b1"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "6cf0a00d56e285a0c863e9cb0fbfbd09c67cef59b12ff5edf30cd0c6b50cc095"
 metafile = true
 
 [[files]]
