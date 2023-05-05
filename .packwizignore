@@ -1,0 +1,9 @@
+node_modules
+package.json
+package-lock.json
+README
+.gitignore
+*.zip
+.prettierrc.json
+.github
+.husky

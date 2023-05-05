@@ -6,8 +6,10 @@ Always make sure to run `packwiz refresh` when making changes. This updates the 
 
 ## Requirements
 
+- [Node](https://nodejs.org/en)
 - [Packwiz](https://packwiz.infra.link/tutorials/creating/getting-started/)
 
 ## Getting started
-
-1. `packwiz cf export` exports a zip file for CurseForge.
+1. Download and install NodeJS and Packwiz
+2. Run npm install
+3. `packwiz cf export` exports a zip file for CurseForge.

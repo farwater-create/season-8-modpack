@@ -1,0 +1,13 @@
+name = "Create: Farwater Expansion"
+filename = "farwater-alpha-v0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "88933cada63e6cd7f467f94e9401dde27004c4f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4506400
+project-id = 852079
