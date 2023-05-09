@@ -1440,6 +1440,11 @@ hash = "84f19ab0b1bd86bb9b9ee5c567fca05ba371d875f3aaee03375ad67020adcbb4"
 metafile = true
 
 [[files]]
+file = "mods/morejs.pw.toml"
+hash = "92ce283f7bcb000044d3a3ad283f1100ce12f14c4709e782a92fd0d0554aded4"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "143a8455f83fa8707f5a89b0b2da6c7e71623a7d41830c2663a035e8083de556"
 metafile = true
