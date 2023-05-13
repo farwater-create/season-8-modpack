@@ -1110,11 +1110,6 @@ hash = "4e4fe15c401f179c42a65624bcb8cd5f42973f541312b93bdfd73f3dc95348cd"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "6e953daa63dabfa46b58bb9135309c7189d8b1490b7f9ceb194be0e7b820cd23"
-metafile = true
-
-[[files]]
 file = "mods/cammies-minecart-tweaks.pw.toml"
 hash = "19c6278d3d4e89f66267cc55104fba82be47b3b09f45680e7156a560c5d09e67"
 metafile = true
