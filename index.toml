@@ -1155,11 +1155,6 @@ hash = "38ae82f21bd269d44e7f44869ff291092766759f110fa318103cea0a94845fb8"
 metafile = true
 
 [[files]]
-file = "mods/continents.pw.toml"
-hash = "02c6ee9316793c834b8ef515327ab73c8f6d83aa8f817aa1509c7bb786b84557"
-metafile = true
-
-[[files]]
 file = "mods/create-deco-fabric.pw.toml"
 hash = "3e2ed46e1811a2452f21cb75dfe5952b32e13e5845ac707e6ff199a14b58a6be"
 metafile = true
@@ -1632,11 +1627,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "95ae046f35ec27df513544e45a0c0b93bfd538e549b3015825fa78371871de06"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "1db39b02058416cfc63be3982ee3d9b2a1a77d22d6ae562c17787ca7e9bacb9a"
 metafile = true
 
 [[files]]
