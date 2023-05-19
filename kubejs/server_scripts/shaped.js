@@ -1,7 +1,7 @@
 ServerEvents.recipes(e => {
     // BELT
    	e.shaped(
-      Item.of('create:belt_connector', 1),
+      Item.of('create:belt_connector', 3),
       [ 
         'rrr', 
       ],
