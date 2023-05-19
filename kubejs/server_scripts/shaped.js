@@ -1,4 +1,18 @@
 ServerEvents.recipes(e => {
+    // piston_extension_pole
+   	e.shaped(
+      Item.of('create:piston_extension_pole', 8),
+      [ 
+        'l', 
+        'a', 
+        'l', 
+      ],
+      {
+        l: '#minecraft:logs', 
+        a: 'create:andesite_alloy', 
+      }
+    )
+    
     // BELT
    	e.shaped(
       Item.of('create:belt_connector', 1),
@@ -40,39 +54,65 @@ ServerEvents.recipes(e => {
       }
     )
     
-    // Fluid Pipe Mk1
+    // BABY BACKPACK
    	e.shaped(
-      Item.of('indrev:fluid_pipe_mk1', 1),
+      Item.of('inmis:baby_backpack', 1),
       [ 
-        'rcr' 
+        'lll', 
+        'lcl',
+        'lll'
       ],
       {
-        c: 'minecraft:copper_ingot',
-        r: 'farwater:rubber_string'
+        l: 'minecraft:leather', 
+        c: 'minecraft:chest', 
       }
     )
     
-    // OUTPUT SERVO
+    // FRAYED BACKPACK
    	e.shaped(
-      Item.of('indrev:servo_output', 1),
+      Item.of('inmis:frayed_backpack', 1),
       [ 
-        'ici' 
+        'lll', 
+        'lbl',
+        'lll'
       ],
       {
-        c: 'create:copper_nugget',
-        i: 'minecraft:iron_nugget'
+        l: 'minecraft:leather', 
+        b: 'inmis:baby_backpack', 
       }
     )
     
-    // RETRIEVER SERVO
+    // PLATED BACKPACK
    	e.shaped(
-      Item.of('indrev:servo_retriever', 1),
+      Item.of('inmis:plated_backpack', 1),
       [ 
-        'ili' 
+        'iri', 
+        'ibi',
+        'iii'
       ],
       {
-        i: 'minecraft:iron_nugget',
-        l: 'minecraft:lapis_lazuli'
+        r: 'farwater:rubber_string', 
+        i: 'createdeco:cast_iron_sheet', 
+        b: 'inmis:frayed_backpack', 
       }
     )
+    
+    // ANGEL RING
+    // Disabled by request from Oog -- dithpri 2023-05-17
+   	/* e.shaped(
+      Item.of('kibe:angel_ring', 1),
+      [ 
+        'nhn', 
+        'ere',
+        'ncn'
+      ],
+      {
+        n: 'minecraft:nether_star', 
+        e: 'minecraft:elytra', 
+        r: 'kibe:diamond_ring', 
+        h: 'minecraft:dragon_head', 
+        c: 'minecraft:end_crystal', 
+      }
+    )
+   */
 })

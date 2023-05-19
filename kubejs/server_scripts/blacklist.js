@@ -8,6 +8,7 @@ const outputBlacklist = [
   // Create
   "create:tree_fertilizer",
   "create:blaze_cake",
+  "create:postion_extension_pole",
   "create:belt_connector",
   "create:brass_funnel",
   "create:brass_tunnel",
@@ -61,6 +62,7 @@ const outputBlacklist = [
   "kibe:green_rune",
   "kibe:brown_rune",
   "kibe:red_rune",
+  "kibe:pink_rune",
   "kibe:black_rune",
   "kibe:gray_rune",
   "kibe:chunk_loader",
@@ -89,6 +91,8 @@ const outputBlacklist = [
   "kibe:red_elevator",
   "kibe:black_elevator",
   "kibe:gray_elevator",
+  "kibe:pink_elevator",
+  "kibe:purple_elevator",
   "kibe:kibe",
   "kibe:cursed_kibe",
   "kibe:golden_kibe",
@@ -97,29 +101,38 @@ const outputBlacklist = [
   "kibe:drawbridge",
   "kibe:wither_builder",
   "kibe:fluid_hopper",
-  // INDREV
-  "indrev:fluid_pipe_mk1",
-  //"indrev:fluid_pipe_mk2",
-  //"indrev:fluid_pipe_mk3",
-  //"indrev:fluid_pipe_mk4",
-  "indrev:servo_output",
-  "indrev:servo_retriever",
-  "indrev:hammer",
-  "indrev:wrench",
-  "indrev:tin_plate",
-  "indrev:iron_plate",
-  "indrev:gold_plate",
-  "indrev:copper_plate",
+  "kibe:angel_ring",
+  "kibe:stone_spikes",
+  "kibe:iron_spikes",
+  "kibe:gold_spikes",
+  "kibe:diamond_spikes",
+   // POWAH
+  "powah:ender_cell_starter",
+  "powah:ender_cell_basic",
+  "powah:ender_cell_hardened",
+  "powah:ender_cell_blazing",
+  "powah:ender_cell_niotic",
+  "powah:ender_cell_spirited",
+  "powah:ender_cell_nitro",
+  "powah:ender_gate_starter",
+  "powah:ender_gate_basic",
+  "powah:ender_gate_hardened",
+  "powah:ender_gate_blazing",
+  "powah:ender_gate_niotic",
+  "powah:ender_gate_spirited",
+  "powah:ender_gate_nitro",
+  // Vinery
+  "vinery:vinemaker_apron",
 ];
 
 const recipeBlackList = [
   "minecraft:ender_eye",
-  "ae2:network/parts/annihilation_plane_alt2",
-  "ae2:network/parts/annihilation_plane_alt",
-  "ae2:network/parts/annihilation_plane_alt",
+  // "ae2:network/parts/annihilation_plane_alt2",
+  // "ae2:network/parts/annihilation_plane_alt",
+  // "ae2:network/parts/annihilation_plane_alt",
 ]
 
-const modBlackList = [];
+const modBlackList = ["waystones", "inmis"];
 
 ServerEvents.recipes(e => {
   console.log("loading blacklist..")
