@@ -1345,6 +1345,14 @@ hash = "10ffe770c9d93df6c55b263ced6ef3b7d5c9ecd8cfe9f5f1411d99107e727d02"
 metafile = true
 
 [[files]]
+file = "mods/iris-mc1.19.2-1.6.2.jar"
+hash = "c06583a83e22a2cbcfb1063a0812e4d8b6022cc41b10c3a46298a43e5da12f57"
+
+[[files]]
+file = "mods/iris-mc1.19.2-1.6.2.jar:Zone.Identifier"
+hash = "1ea0ab296cd5b7fbc549b1bb356e336de93686bf34dd32e22b47d51a51dfa2a2"
+
+[[files]]
 file = "mods/item-highlighter-fabric.pw.toml"
 hash = "e9158e06a0563641b8bcf990fa789f0d30d896bc3a72522b048d3f0217c69e1b"
 metafile = true
@@ -1533,6 +1541,14 @@ metafile = true
 file = "mods/puzzles-lib.pw.toml"
 hash = "c6535b250382cdeaa48b00a1d91599cdb10e6c5a9f5e2d5d0984978757359f62"
 metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics-1.0.1.jar"
+hash = "4c22dc3f5d856a42cde88a418fe6c03863a4732a80070cde347406c16faef979"
+
+[[files]]
+file = "mods/pv-addon-soundphysics-1.0.1.jar:Zone.Identifier"
+hash = "3ae16826f1dd3e8ca098f5be93e90140572502842e821c4cfeeed0b535c9b0d2"
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
