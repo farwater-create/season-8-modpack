@@ -1225,6 +1225,11 @@ hash = "c042b77aa81c09c8071bf3ea0a0a3dc40a355e519a5775f9cc086afbe9bc60f4"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "8c4e940904b898bfa969a70045ecea49588f70d09413d45e1c41cb437bf27789"
+metafile = true
+
+[[files]]
 file = "mods/entity-collision-fps-fix-fabric.pw.toml"
 hash = "8eed81956f974a8d853cd01ab549a36e05d6759e10fdb7b71e07f6a77f44d1b6"
 metafile = true
@@ -1232,6 +1237,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "903cc1fc7354d3c52be8f2b7899721aa53beef8e2fb5457a58f16a9c62d06a45"
+metafile = true
+
+[[files]]
+file = "mods/extreme-sound-muffler-fabric-official.pw.toml"
+hash = "9bc953e45752202ab92170fdcd21f0a85d795d02676b218b29152630f5b2ea79"
 metafile = true
 
 [[files]]
@@ -1330,6 +1340,11 @@ hash = "de1c6321991e538bae09a89a3e890b4e1117d075c8b16f3766e22af42044522e"
 metafile = true
 
 [[files]]
+file = "mods/invmove.pw.toml"
+hash = "10ffe770c9d93df6c55b263ced6ef3b7d5c9ecd8cfe9f5f1411d99107e727d02"
+metafile = true
+
+[[files]]
 file = "mods/item-highlighter-fabric.pw.toml"
 hash = "e9158e06a0563641b8bcf990fa789f0d30d896bc3a72522b048d3f0217c69e1b"
 metafile = true
@@ -1372,6 +1387,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "eac5e11f4f5d18cc618aa6452690d3aba7ed95accd4b830190d01946d99aeb2f"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "57c09b8b9dbc975bf22acdd115f4cefca61708c9a15dc73e3720b3f514996072"
 metafile = true
 
 [[files]]
@@ -1615,6 +1635,11 @@ hash = "9d04d7c707d6908acf054ae75de4aa8d64cdf045290ad183d91ee6f2ea99ca3e"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "f51e1bde8ed58573d6ebf6b4c3623705650cf9fbfcc68bf277d165088c1861f3"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "ed630161a04121bc00562c9a9ceab91d8c1d0bda43ab83d2a1256609f3db1701"
 metafile = true
@@ -1691,4 +1716,4 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "d4fbbf5568a593d98d0f1051cc89bba1b6d315e7ccc59b329a5c9f864af35042"
+hash = "2476e9091cf5bec7811677526f13dc6146cf56da93c65677a2c7073bf3130712"
