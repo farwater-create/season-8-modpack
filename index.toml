@@ -1262,7 +1262,7 @@ metafile = true
 
 [[files]]
 file = "mods/emojiful.pw.toml"
-hash = "1e5c6e1f044de775100226035d8ed0acfc8abd8ae3d082d4126add5b73d1662d"
+hash = "8c4e940904b898bfa969a70045ecea49588f70d09413d45e1c41cb437bf27789"
 metafile = true
 
 [[files]]
@@ -1277,7 +1277,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler-fabric-official.pw.toml"
-hash = "68c821608eb2fcdcc98ddbd6358d1b31e7d36fbfbc457fb80c31903dc744146f"
+hash = "9bc953e45752202ab92170fdcd21f0a85d795d02676b218b29152630f5b2ea79"
 metafile = true
 
 [[files]]
@@ -1303,6 +1303,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-respite-fabric.pw.toml"
 hash = "6734843fe41528c1d8e172802335888ef92b6b9d2d9c27d89613119c2d062670"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "d7b51db6f69be6f6ea175d7004980cc764abfd58161124a5bf064e4c26b839a5"
 metafile = true
 
 [[files]]
@@ -1431,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "b5b6effd63934db82dba3b3d93e095a15df6d46e4d859b2f2e35a425e0c8e82b"
+hash = "57c09b8b9dbc975bf22acdd115f4cefca61708c9a15dc73e3720b3f514996072"
 metafile = true
 
 [[files]]
@@ -1680,7 +1685,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "77752f137c3d9aff83e8d00df6c83a47825a3542ca9927dc6a046b0c59aae8d4"
+hash = "f51e1bde8ed58573d6ebf6b4c3623705650cf9fbfcc68bf277d165088c1861f3"
 metafile = true
 
 [[files]]
